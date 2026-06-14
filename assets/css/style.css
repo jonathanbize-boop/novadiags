@@ -356,6 +356,17 @@ table.tarifs td:first-of-type{ font-weight:600; }
 .info-item b{ display:block; font-size:.82rem; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); font-weight:650; }
 .info-item span,.info-item a{ font-size:1.08rem; font-weight:600; color:var(--ink); }
 
+/* ---------- Liste de tarifs (prestations complementaires) ---------- */
+.fee-list{ display:grid; gap:.7rem; }
+.fee-list li{
+  display:flex; justify-content:space-between; align-items:center; gap:1rem;
+  background:#fff; border:1px solid var(--line); border-radius:var(--r-md);
+  padding:1rem 1.15rem; box-shadow:var(--shadow-sm);
+}
+.fee-label{ font-weight:650; color:var(--ink); line-height:1.3; }
+.fee-label small{ display:block; font-weight:400; color:var(--muted); font-size:.82rem; margin-top:.2rem; }
+.fee-price{ font-weight:700; color:var(--sage-700); white-space:nowrap; font-variant-numeric:tabular-nums; font-size:1.05rem; flex-shrink:0; }
+
 /* ---------- CTA band ---------- */
 .cta-band{ background:linear-gradient(135deg,var(--forest),var(--forest-2)); border-radius:var(--r-lg); padding:clamp(2rem,5vw,3.4rem); text-align:center; position:relative; overflow:hidden; }
 .cta-band::after{ content:""; position:absolute; inset:0; background:radial-gradient(circle at 80% 20%, rgba(156,182,138,.18), transparent 55%); pointer-events:none; }
