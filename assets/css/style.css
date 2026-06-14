@@ -112,6 +112,9 @@ p { color:var(--ink-soft); }
 .section--forest .eyebrow{ color:var(--sage); }
 .section--forest .eyebrow::before{ background:var(--sage); }
 .section--forest p,.section--forest .lead{ color:#CBD2C0; }
+/* Listes a puces lisibles sur fond fonce */
+.section--forest .checklist li{ color:#D5DCCB; }
+.section--forest .checklist li strong{ color:#fff; }
 /* Les cartes blanches conservent un texte sombre, meme dans une section foncee */
 .section--forest .card h1,.section--forest .card h2,.section--forest .card h3,.section--forest .card h4{ color:var(--ink); }
 .section--forest .card p{ color:var(--ink-soft); }
