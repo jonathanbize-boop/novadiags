@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.novadiags.fr/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.novadiags.fr/diagnostic-vente.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.novadiags.fr/diagnostic-location.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.novadiags.fr/diagnostic-copropriete.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.novadiags.fr/amiante-travaux-demolition.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.novadiags.fr/dpe-projete.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.novadiags.fr/tarifs.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.novadiags.fr/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.novadiags.fr/contact.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.novadiags.fr/mentions-legales.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+</urlset>
